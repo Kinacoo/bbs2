@@ -1,0 +1,29 @@
+<web-app>
+    <servlet>
+        <servlet-name>CommentServlet</servlet-name>
+        <servlet-class>CommentServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CommentServlet</servlet-name>
+        <url-pattern>/CommentServlet</url-pattern>
+    </servlet-mapping>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</web-app>
